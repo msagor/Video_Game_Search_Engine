@@ -1,6 +1,6 @@
 this is the video game search engine app.
 youll need solr 2.7.2, python 2.7, and pyqt4
-
+"search.py" is the main file that works as the engine.
 Setup:
 download the entire folder and paste on desktop.
 
